@@ -1,5 +1,5 @@
 # Demo
 
-Some description!
+Some description.
 
 Added a new line.
